@@ -1,4 +1,4 @@
-![Header](./github-header-image.png) 
+
 
 <a href="https://github.com/https://github.com/oscarlmdev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -36,7 +36,7 @@ My goal is to become a professional web developer and continue growing as a prog
 - ⚡ Fun fact: I take cold showers to wake up  
 
 
-</td><td valign="top" width="50%">
+</td>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
