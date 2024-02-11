@@ -65,8 +65,6 @@ My goal is to become a professional web developer and continue growing as a prog
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarlmdev&show_icons=true&locale=en&layout=compact" alt="oscarlmdev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarlmdev&show_icons=true&locale=en&layout=compact" alt="oscarlmdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarlmdev&show_icons=true&locale=en" alt="oscarlmdev" /></p>
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=oscarlmdev&show_icons=true&theme=dark)](https://github.com/maximofernandezriera)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarlmdev&show_icons=true&locale=en" alt="oscarlmdev" /></p>
