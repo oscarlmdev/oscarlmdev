@@ -63,20 +63,10 @@ My goal is to become a professional web developer and continue growing as a prog
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="65" /></a>  
 </div>  
 
-<br/>  
+<br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarlmdev&show_icons=true&locale=en&layout=compact" alt="oscarlmdev" /></p>
 
-## Github Stats  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarlmdev&show_icons=true&locale=en" alt="oscarlmdev" /></p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=oscarlmdev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarlmdev&hide_border=true&layout=compact" align="left" style="width: 45%" />
-
-
-
-
-
-<br />
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=oscarlmdev&show_icons=true&theme=dark)](https://github.com/maximofernandezriera)
