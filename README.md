@@ -27,11 +27,17 @@ My goal is to become a professional web developer and continue growing as a prog
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently studying Web Development Intensive High Degree  
-  
+- 🔭 I’m currently studying Web Development Intensive High Degree on CIFP Francesc de Borjamoll
 
-- 🌱 I’m currently learning Java, JavaScript and SQL automation  
-  
+
+- 🗣️ Fluent in Spanish AND English
+
+
+- 🌱 I’m currently learning Java, JavaScript and SQL automation
+
+
+- 📫 How to reach me oscarlmdev@gmail.com
+
 
 - ⚡ Fun fact: I take cold showers to wake up  
 
