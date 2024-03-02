@@ -1,16 +1,16 @@
 ![Header](./github-header-image.png)
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/oscarlacoma" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/oscarlmdev" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codewars.com/users/oscarlmdev" target="_blank">
-<img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codewars.com/users/oscarlmdev" target="_blank">
-<img height=28px src=https://www.codewars.com/users/oscarlmdev/badges/large alt=codewars style="margin-bottom: 5px;" />
+<img height="28px" src="https://www.codewars.com/users/oscarlmdev/badges/large" alt="codewars" style="margin-bottom: 5px;" />
 </a>
 
   
