@@ -37,7 +37,7 @@ My goal is to become a professional web developer and continue growing as a prog
 - 🗣️ Fluent in Spanish AND English
 
 
-- 🌱 I’m currently learning C#, use of frameworks,software deployment and SQL automation
+- 🌱 I’m currently learning Angular, Tailwind,software deployment and SQL automation
 
 
 - 📫 How to reach me oscarlmdev@gmail.com
