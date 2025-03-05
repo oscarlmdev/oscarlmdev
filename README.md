@@ -96,6 +96,6 @@ My goal is to become a professional web developer and continue growing as a prog
 
 <br/> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarlmdev&show_icons=true&locale=en&layout=compact" alt="oscarlmdev" /></p>
+# <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarlmdev&show_icons=true&locale=en&layout=compact" alt="oscarlmdev" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarlmdev&show_icons=true&locale=en" alt="oscarlmdev" /></p>
