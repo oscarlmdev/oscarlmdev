@@ -37,7 +37,7 @@ My goal is to become a professional web developer and continue growing as a prog
 - 🗣️ Fluent in Spanish AND English
 
 
-- 🌱 I’m currently learning Angular, Tailwind,software deployment and SQL automation
+- 🌱 I’m currently learning Laravel, Tailwind,software deployment and SQL automation
 
 
 - 📫 How to reach me oscarlmdev@gmail.com
@@ -74,10 +74,10 @@ My goal is to become a professional web developer and continue growing as a prog
 
 ### Backend  
 <div align="center">  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="Php" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://www.make.com/" target="_blank"><img style="margin: 10px" src="https://images.squarespace-cdn.com/content/v1/6516da875d4cda040bcc69c4/1730808869033-O66WPCVRSTQ5KIE9BE1Z/Make.com+Logo.png" alt="Make" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
